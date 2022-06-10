@@ -1,0 +1,191 @@
+C:\Users\SK\Desktop\Aayush\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\Aayush\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\Aayush\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\Aayush\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\91913\Downloads\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Documents\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Documents\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Documents\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Documents\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\91913\Desktop\Jayesh&Aayush\01April8Pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Documents\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\Jayesh Singh Bais\Chesss\01April10Pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\Jayesh Singh Bais\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\Chess\4April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\91913\Desktop\Jayesh&Aayush\6April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\6April11pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\91913\Desktop\Chess\7April8pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\91913\Desktop\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Chess\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Start.resources
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Start.resources
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\91913\Desktop\final chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Start.resources
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\SK\Desktop\Final Chess\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe.config
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.exe
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\bin\Debug\Employee.pdb
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.AssemblyReference.cache
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.SuggestedBindingRedirects.cache
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Form1.resources
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.Start.resources
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.cache
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.csproj.CoreCompileInputs.cache
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.exe
+C:\Users\AAYUSH VAGRECHA\Desktop\22April2022\9april3pm\8April7pm\Chesss1\Employee\Employee\obj\Debug\Employee.pdb
